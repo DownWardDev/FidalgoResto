@@ -1,0 +1,35 @@
+body{
+    background-image: url(images/hero-slider-1.jpg); 
+    margin: 0%;
+    padding: 0%;
+    align-items: center;
+    text-align: center;
+}
+
+.heading{
+    color: beige;
+    text-align: center;
+    margin: 150px;
+    font-size: 100px;
+    text-shadow: 5px 5px 5px black;
+}
+.sentence{
+    color:#d4ad59;
+    font-size: 30px;
+}
+button{
+    font-size: 20px;
+    padding: 10px;
+    padding: 7px;
+    font-weight: 500;
+    color: aliceblue;
+    background:transparent;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+button :hover {
+    color: #02211e;
+    opacity: 50%;
+    border: 3px solid #d4ad59;
+  
+  }
